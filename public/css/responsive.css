@@ -1,0 +1,55 @@
+@media all and (min-width: 480px){
+  body {
+    background: navy;
+  }
+  
+  h1{
+    color:white;
+  }
+
+  td{
+    color:lightseagreen;
+  }
+
+  p{
+    color:#d7ead6e8;
+    text-align: center;
+  }
+
+  .fa-phone:before,.fa-whatsapp:before,.fa-at:before {
+    color: green;
+  }
+  
+
+  .table>thead>tr>th {
+  background: rgba(15, 8, 51, 0.77);
+  }
+
+  #primary {
+    width: 50%;
+    float: left;
+
+  }
+
+  #secondary {
+    width: 30%;
+    float: left;
+
+
+  }/*
+  #info{
+    width: 50%;
+    float: left;
+  }*/
+
+  #info2 {
+    width: 50%;
+    float: left;
+  }
+  #butumss{
+    width: 50%;
+    float: right;
+  }
+
+
+}
